@@ -42,7 +42,7 @@
 		<nosqlunit.version>0.8.0</nosqlunit.version>
 		<jetty.version>8.1.16.v20140903</jetty.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<struts2.version>2.3.16.3</struts2.version>
+		<struts2.version>2.5.26</struts2.version>
 		<mybatis-spring.version>1.2.2</mybatis-spring.version>
 		<druid.version>1.0.2</druid.version>
 		<aspectjweaver.version>1.6.8_2</aspectjweaver.version>
